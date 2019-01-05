@@ -1273,5 +1273,4 @@ client.on("message", (message) => {
     }
     });
 
-client.login('NTMxMDkxMzY1Mzg4NDg0NjI4.DxI9BQ.5lO0s6dJP0uQhwHRRTTMOSfaOyE
-');
+client.login('tokeen');
