@@ -1273,4 +1273,4 @@ client.on("message", (message) => {
     }
     });
 
-client.login('tokeen');
+client.login(process.env.BOT_TOKEN);
